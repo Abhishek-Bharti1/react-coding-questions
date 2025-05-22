@@ -48,10 +48,10 @@ Each question is stored in its own folder, with a self-contained setup.
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/machine-coding-round.git
+git clone https://github.com/yourusername/react-coding-questions.git
 
 # Navigate to a specific question
-cd problem-1-todo-app
+cd folder-name
 
 # Install dependencies
 npm install
