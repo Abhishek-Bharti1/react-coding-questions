@@ -31,7 +31,7 @@ Each question is stored in its own folder, with a self-contained setup.
 ## 📌 Problem Types Covered
 
 - ✅ TODO App with filters
-- ✅ Pagination UI
+- ✅ Pagination UI - https://pagination-ui.vercel.app/
 - ✅ Infinite Scrolling
 - ✅ Search with Debounce
 - ✅ Nested Comments (like Reddit)
