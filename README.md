@@ -41,6 +41,7 @@ Each question is stored in its own folder, with a self-contained setup.
 - ✅ Sorting & Filtering Table
 - ✅ Virtualized List
 - ✅ Chessboard / Grid logic
+- ✅ Theme (Dark/Light)
 
 ---
 
