@@ -32,7 +32,7 @@ Each question is stored in its own folder, with a self-contained setup.
 
 - ✅ TODO App with filters
 - ✅ Pagination UI - https://pagination-ui.vercel.app/
-- ✅ Infinite Scrolling
+- ✅ Infinite Scrolling - https://infinite-scroll-self-nine.vercel.app/
 - ✅ Search with Debounce - https://debounce-search.vercel.app/
 - ✅ Nested Comments (like Reddit)
 - ✅ Custom Dropdown
