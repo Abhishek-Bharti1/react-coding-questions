@@ -10,7 +10,7 @@ const App = () => {
     if (loading || !hasMore) return;
 
     setLoading(true);
-    const res = await fetch(`https://dummyjson.com/products?limit=10&skip=${page}`);
+    const res = await fetch(`https://dummyjson.com/products`);
     const data = await res.json();
 
     setItems((prev) => [...prev, ...data.products]);
