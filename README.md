@@ -60,6 +60,7 @@ npm install
 # Run the app
 npm run dev
 
+---
 📬 Feedback / Contribution
 Feel free to open issues or submit PRs if you have suggestions or improvements!
 
