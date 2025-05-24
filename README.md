@@ -63,8 +63,10 @@ npm run dev
 📬 Feedback / Contribution
 Feel free to open issues or submit PRs if you have suggestions or improvements!
 
-🔗 Connect with Me
-📧 [Email](abhishekbharti91550@gmail.com)
+## 🔗 Connect with Me
+
+📧 [Email](mailto:abhishekbharti91550@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-bharti-/)
+
 
 🌟 Star if you find this helpful!
