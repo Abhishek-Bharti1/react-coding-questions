@@ -41,10 +41,21 @@ Each question is stored in its own folder, with a self-contained setup.
 - ✅ Sorting & Filtering Table
 - ✅ Virtualized List
 - ✅ Chessboard / Grid logic
-- ✅ Theme (Dark/Light)
+- ✅ Theme (Dark/Light) - https://theme-mode-phi.vercel.app/
 
 ---
+## 📬 Feedback / Contribution
+Feel free to open issues or submit PRs if you have suggestions or improvements!
 
+## 🔗 Connect with Me
+
+📧 [Email](mailto:abhishekbharti91550@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/abhishek-bharti-/)
+
+
+🌟 Star if you find this helpful!
+
+---
 ## 🧑‍💻 How to Run
 
 ```bash
@@ -58,4 +69,4 @@ cd folder-name
 npm install
 
 # Run the app
-npm run dev  # or npm start
+npm run dev
